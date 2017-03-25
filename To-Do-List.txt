@@ -1,0 +1,59 @@
+GLH
+
+User Profile
+- Training system - to be clarify
+Morning routing:
+ - Active log of Support
+
+License
+
+Dashbaord System
+- Daily report (IT operator vs Developer)
+- Network vs Syst performance
+- Bus - Requirement (change request)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In plan:
+
+- Effective Monitoring report of connection
++ Weekly meeting - update tasks
+  - 
+- Email not recieving real time (delay 20 minutes to 30 minutes)
+- Detail of IT flow
+- Correction Computer Name, and user who are using that Computer.
+
+
